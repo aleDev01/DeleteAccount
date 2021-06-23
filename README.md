@@ -1,7 +1,7 @@
 # DeleteAccunt
 > **It**
 > 
-se qualcuno vorra cancellare il profilo di telegram Entrate nella cartella e mettete il numero vi arriva un messaggio nel profilo E date il motivo perché Volete Cancellare il profilo mettete quello che volete e poi fate il pulsante Delete Profile e poi fate il pulsante Rosso E il gioco è Fatto  
+se qualcuno vorrà cancellare il profilo di telegram Entrate nella cartella e mettete il numero vi arriva un messaggio nel profilo E date il motivo perché Volete Cancellare il profilo mettete quello che volete e poi fate il pulsante Delete Profile e poi fate il pulsante Rosso E il gioco è Fatto  
 
 > **En**
 > 
